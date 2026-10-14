@@ -1,0 +1,42 @@
+Copyright © 2026 Dolzip. All rights reserved.
+
+Dolzip 독점 라이선스 / Proprietary License
+
+한국어 — 무료 바이너리 최종 사용자 사용권 계약
+1. Dolzip은 공식 배포한 DolUnzip 및 dz 바이너리를 개인 또는 업무
+   목적으로 무료 설치·실행하고, 본인 사용에 필요한 사본을 만들 수 있는
+   비독점적·양도 불가능한 사용권을 부여합니다. 소스 코드에 대한 사용권은
+   부여하지 않으며, 명시적으로 허용하지 않은 권리는 유보합니다.
+2. Dolzip의 사전 서면 허락 없이 소프트웨어를 재배포·판매·대여·재라이선스하거나
+   수정·역설계·디컴파일·디스어셈블할 수 없습니다. 강행 법규가 허용하는
+   범위 및 서드파티 라이선스가 별도로 허용하는 행위는 예외입니다.
+3. 법률이 허용하는 최대 범위에서 소프트웨어는 어떠한 명시적·묵시적 보증도
+   없이 “있는 그대로” 제공됩니다. 상품성·특정 목적 적합성·비침해성을
+   보증하지 않으며, Dolzip은 사용 또는 사용 불능으로 발생한 손해에 대해
+   책임지지 않습니다. 배제할 수 없는 법정 권리는 제한하지 않습니다.
+4. 서드파티 구성 요소에는 각자의 라이선스가 적용됩니다. 해당 고지와 권리는
+   이 계약으로 제한되지 않습니다. THIRD_PARTY_NOTICES.md, 앱 라이선스 창,
+   dz --licenses를 참조하십시오.
+5. 유료 Dolzip App Store 앱에는 구매 시 적용되는 App Store 약관 및 해당
+   앱의 사용권 계약이 적용되며, 위 무료 사용 허락의 대상이 아닙니다.
+
+English — Free Binary End User License Agreement
+1. Dolzip grants you a non-exclusive, non-transferable license to install and
+   run officially distributed DolUnzip and dz binaries free of charge for
+   personal or business use, and to make copies necessary for your own use.
+   No source code license is granted. All rights not expressly granted are reserved.
+2. Without Dolzip's prior written permission, you may not redistribute, sell,
+   rent, sublicense, modify, reverse engineer, decompile, or disassemble the
+   software, except to the extent permitted by mandatory law or separately
+   permitted by applicable third-party licenses.
+3. To the maximum extent permitted by law, the software is provided “AS IS”,
+   without express or implied warranties, including merchantability, fitness
+   for a particular purpose, and non-infringement. Dolzip is not liable for
+   damages arising from use of or inability to use the software. Statutory
+   rights that cannot be excluded remain unaffected.
+4. Third-party components remain subject to their respective licenses. This
+   agreement does not restrict their notices or rights. See
+   THIRD_PARTY_NOTICES.md, the app's license window, and dz --licenses.
+5. The paid Dolzip App Store app is subject to the App Store terms and the
+   application's license agreement applicable at purchase, and is not covered
+   by the free-use grant above.
